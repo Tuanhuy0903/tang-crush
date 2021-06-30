@@ -1,19 +1,17 @@
 const CONFIG = {
-    introTitle: 'Babe à!',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
-    btnIntro: 'hihi',
+    introTitle: 'Zui à!',
+    introDesc: `Trái đất này có biết bao nhiêu người 
+    mà sao m lại lèm bẹn thận với tao ấy nhờ?chấm hỏi luôn`,
+    btnIntro: 'chắc do t với m thù nhao á',
     title: 'Nào nào trả lời hộ câu này nào:))',
-    desc: 'Mày có chịu làm công chúa của tao cả đời không?:)',
-    btnYes: 'ô kê luôn <3',
-    btnNo: 'Không, Anh trai à :3(bố m thách m chọn đc này)',
-    question:'Trên thế giới hơn 7 tỉ người mà sao em lại yêu anh <3',
-    btnReply: 'Gửi cho anh <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
-    messDesc: 'chơi xong trò này đừng cảm động quá nhá hihi',
-    btnAccept: 'nhấn để yêu anh hơn:))',
+    desc: 'MÀY có muốn t với m thành kẻ thù khom? ?(m nhấn đc k t cho m 10k)',
+    btnYes: 'zời đương nhiên',
+    btnNo: 'chị em xã đoàn ai làm thế?:)',
+    question:'hớ lấy 10k của t dễ chắc à:))gòi sao thù t?',
+    btnReply: 'nhấn để gửi',
+    reply: 'mày đẹp vl,chưa hết m còn đẹp hơn t nx:))',
+    mess: 'zời:))t thừa bt t đẹp ròi thanks à',
+    messDesc: 'chơi xong đừng thù thiệt nha ba:))',
+    btnAccept: 'gòi okok mãi thân à:33',
     messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
